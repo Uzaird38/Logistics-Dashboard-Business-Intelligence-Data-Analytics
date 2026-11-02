@@ -1,0 +1,2 @@
+# Logistics-Dashboard-Business-Intelligence-Data-Analytics
+Developed an interactive Power BI Logistics Dashboard to analyse 27,979  orders, delivery performance, customer satisfaction, hub efficiency, driver performance, and vehicle utilization. Integrated four datasets using data modelling and visualizations to identify operational bottlenecks, track KPIs, and generate actionable business insights.
